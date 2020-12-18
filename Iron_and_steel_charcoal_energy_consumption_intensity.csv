@@ -1,0 +1,19 @@
+﻿Combustivel,Sinterizacao,Pelotizacao,Alto-forno,Aciaria,Laminacao,Total
+Carvao mineral,0.37,0,1.39,0,0,1.76
+Carvao vegetal,,0.529,8.254,0,0,8.783
+Finos de carvao,0,0,0,0,0,0
+Coque metalurgico,0.539,0,4.177,0.109,0,4.825
+Coque de petroleo,0,0,0,0,0,0
+Gas de coqueria,0,0,0,0,0,0
+Gas de alto-frono,0.056,0,1.17,0.174,1.065,2.465
+Gas de aciaria,0,0,0,0,0,0
+Gas natural,0,0.345,0.09,0.169,1.156,1.76
+Alcatrao e derivados,0,0,0,0,0,0
+Oleo combustivel,0,0,0,0.02,0.038,0.058
+Oleo diesel,0,0,0,0,0,0
+GLP,0,0,0.002,0.047,0.004,0.053
+Gasolina,0,0,0,0,0,0
+Energia eletrica,0.24,0,1.094,1.844,2.215,5.393
+Gases do ar,0.04,0.173,0.271,0.645,0.105,1.234
+Outras fontes,0,0,0,,0,0
+Total,1.245,1.047,16.448,3.008,4.583,26.331
