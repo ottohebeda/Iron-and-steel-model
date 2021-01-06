@@ -1,0 +1,27 @@
+﻿Combustivel,CO2,CH4,N2O
+Petroleo,143,0.003,0.0006
+Gasolina,69.3,0.003,0.0006
+Querosene,71.5,0.003,0.0006
+Oleo diesel,74.1,0.003,0.0006
+Oleo combustivel,77.4,0.003,0.0006
+GLP,63.1,0.001,0.0001
+Nafta,73.3,0.003,0.0006
+Coque de petroleo,97.5,0.003,0.0006
+Gas de refinaria,57.6,0.003,0.0006
+Outras fontes secundarias,80.7,0.01,0.0015
+Outras primarias nao renovaveis,73.3,0.002,0.0006
+Lignito,101,0.003,0.0006
+Carvao vapor,94.6,0.003,0.0006
+Carvao metalurgico,96.1,0.01,0.0015
+Alcatrao e derivados,80.7,0.01,0.0015
+Coque de carvao mineral,107,0.01,0.0015
+Gas natural,56.1,0.001,0.0001
+Gas canalisado,56.1,0.003,0.0006
+Gas cidade,44.4,0.01,0.0015
+Lenha,0,0.03,0.004
+Carvao vegetal,0,0.2,0.004
+Bagaco de cana,0,0.03,0.004
+Caldo de cana,0,0.003,0.0006
+Melaco,0,0.003,0.0006
+Gas de aciaria,44.4,0.003,0.0006
+Gas de alto-forno,44.4,0.03,0.004
