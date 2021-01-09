@@ -1,4 +1,4 @@
-﻿Mitigation measure,Route,Step,Energy reduction (Gj/t),CAPEX (RS/t),OPEX (RS/t),Penetration
+﻿Medida de mitigacao,Rota,Etapa,Reducao na intensidade (Gj/t),CAPEX (RS/t),OPEX (RS/t),Penetracao
 Coke Dry Quenching,R1,Alto-forno,0.37,115,5.75,0.5
 Inversores de frequencia,R1,Alto-forno,0.12122,1.43325,0.0716625,1
 Recuperacao de calor na sinterizacao,R1,Sinterizacao,0.55,14.805,0.74025,1
