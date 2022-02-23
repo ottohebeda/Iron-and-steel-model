@@ -1,0 +1,256 @@
+﻿Rota,Etapa,Combustivel,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+R1,Sinterizacao,Gas natural,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045,0.045
+R1,Sinterizacao,Carvao metalurgico,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449,0.449
+R1,Sinterizacao,Lenha,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Produtos da cana,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Outras fontes primarias,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009
+R1,Sinterizacao,Oleo diesel,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Oleo combustivel,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Gasolina,,,,,,,,,,,,,,,,
+R1,Sinterizacao,GLP,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Querosene,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Gases cidade,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039
+R1,Sinterizacao,Coque de carvao mineral,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226,1.226
+R1,Sinterizacao,Eletricidade,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552,0.552
+R1,Sinterizacao,Carvao vegetal,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Alcool etilico,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R1,Sinterizacao,Alcatrao,,,,,,,,,,,,,,,,
+R1,Alto-forno,Gas natural,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+R1,Alto-forno,Carvao metalurgico,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693,2.693
+R1,Alto-forno,Lenha,,,,,,,,,,,,,,,,
+R1,Alto-forno,Produtos da cana,,,,,,,,,,,,,,,,
+R1,Alto-forno,Outras fontes primarias,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652,1.652
+R1,Alto-forno,Oleo diesel,,,,,,,,,,,,,,,,
+R1,Alto-forno,Oleo combustivel,,,,,,,,,,,,,,,,
+R1,Alto-forno,Gasolina,,,,,,,,,,,,,,,,
+R1,Alto-forno,GLP,,,,,,,,,,,,,,,,
+R1,Alto-forno,Querosene,,,,,,,,,,,,,,,,
+R1,Alto-forno,Gases cidade,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294,0.294
+R1,Alto-forno,Coque de carvao mineral,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796,7.796
+R1,Alto-forno,Eletricidade,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342,0.342
+R1,Alto-forno,Carvao vegetal,,,,,,,,,,,,,,,,
+R1,Alto-forno,Alcool etilico,,,,,,,,,,,,,,,,
+R1,Alto-forno,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R1,Alto-forno,Alcatrao,,,,,,,,,,,,,,,,
+R1,Aciaria,Gas natural,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027,0.027
+R1,Aciaria,Carvao metalurgico,,,,,,,,,,,,,,,,
+R1,Aciaria,Lenha,,,,,,,,,,,,,,,,
+R1,Aciaria,Produtos da cana,,,,,,,,,,,,,,,,
+R1,Aciaria,Outras fontes primarias,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16
+R1,Aciaria,Oleo diesel,,,,,,,,,,,,,,,,
+R1,Aciaria,Oleo combustivel,,,,,,,,,,,,,,,,
+R1,Aciaria,Gasolina,,,,,,,,,,,,,,,,
+R1,Aciaria,GLP,,,,,,,,,,,,,,,,
+R1,Aciaria,Querosene,,,,,,,,,,,,,,,,
+R1,Aciaria,Gases cidade,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007,0.007
+R1,Aciaria,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R1,Aciaria,Eletricidade,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134,0.134
+R1,Aciaria,Carvao vegetal,,,,,,,,,,,,,,,,
+R1,Aciaria,Alcool etilico,,,,,,,,,,,,,,,,
+R1,Aciaria,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R1,Aciaria,Alcatrao,,,,,,,,,,,,,,,,
+R1,Laminacao,Gas natural,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49
+R1,Laminacao,Carvao metalurgico,,,,,,,,,,,,,,,,
+R1,Laminacao,Lenha,,,,,,,,,,,,,,,,
+R1,Laminacao,Produtos da cana,,,,,,,,,,,,,,,,
+R1,Laminacao,Outras fontes primarias,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206,0.206
+R1,Laminacao,Oleo diesel,,,,,,,,,,,,,,,,
+R1,Laminacao,Oleo combustivel,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+R1,Laminacao,Gasolina,,,,,,,,,,,,,,,,
+R1,Laminacao,GLP,,,,,,,,,,,,,,,,
+R1,Laminacao,Querosene,,,,,,,,,,,,,,,,
+R1,Laminacao,Gases cidade,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482,0.482
+R1,Laminacao,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R1,Laminacao,Eletricidade,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11,1.11
+R1,Laminacao,Carvao vegetal,,,,,,,,,,,,,,,,
+R1,Laminacao,Alcool etilico,,,,,,,,,,,,,,,,
+R1,Laminacao,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R1,Laminacao,Alcatrao,,,,,,,,,,,,,,,,
+R1,Flare,Gas natural,,,,,,,,,,,,,,,,
+R1,Flare,Carvao metalurgico,,,,,,,,,,,,,,,,
+R1,Flare,Lenha,,,,,,,,,,,,,,,,
+R1,Flare,Produtos da cana,,,,,,,,,,,,,,,,
+R1,Flare,Outras fontes primarias,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77,0.77
+R1,Flare,Oleo diesel,,,,,,,,,,,,,,,,
+R1,Flare,Oleo combustivel,,,,,,,,,,,,,,,,
+R1,Flare,Gasolina,,,,,,,,,,,,,,,,
+R1,Flare,GLP,,,,,,,,,,,,,,,,
+R1,Flare,Querosene,,,,,,,,,,,,,,,,
+R1,Flare,Gases cidade,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029
+R1,Flare,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R1,Flare,Eletricidade,,,,,,,,,,,,,,,,
+R1,Flare,Carvao vegetal,,,,,,,,,,,,,,,,
+R1,Flare,Alcool etilico,,,,,,,,,,,,,,,,
+R1,Flare,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R1,Flare,Alcatrao,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Gas natural,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345,0.345
+R2,Sinterizacao,Carvao metalurgico,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Lenha,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Produtos da cana,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Outras fontes primarias,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Oleo diesel,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Oleo combustivel,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Gasolina,,,,,,,,,,,,,,,,
+R2,Sinterizacao,GLP,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Querosene,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Gases cidade,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Eletricidade,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173,0.173
+R2,Sinterizacao,Carvao vegetal,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529,0.529
+R2,Sinterizacao,Alcool etilico,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R2,Sinterizacao,Alcatrao,,,,,,,,,,,,,,,,
+R2,Alto-forno,Gas natural,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065
+R2,Alto-forno,Carvao metalurgico,,,,,,,,,,,,,,,,
+R2,Alto-forno,Lenha,,,,,,,,,,,,,,,,
+R2,Alto-forno,Produtos da cana,,,,,,,,,,,,,,,,
+R2,Alto-forno,Outras fontes primarias,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048,1.048
+R2,Alto-forno,Oleo diesel,,,,,,,,,,,,,,,,
+R2,Alto-forno,Oleo combustivel,,,,,,,,,,,,,,,,
+R2,Alto-forno,Gasolina,,,,,,,,,,,,,,,,
+R2,Alto-forno,GLP,,,,,,,,,,,,,,,,
+R2,Alto-forno,Querosene,,,,,,,,,,,,,,,,
+R2,Alto-forno,Gases cidade,,,,,,,,,,,,,,,,
+R2,Alto-forno,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R2,Alto-forno,Eletricidade,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796,0.796
+R2,Alto-forno,Carvao vegetal,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004,6.004
+R2,Alto-forno,Alcool etilico,,,,,,,,,,,,,,,,
+R2,Alto-forno,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R2,Alto-forno,Alcatrao,,,,,,,,,,,,,,,,
+R2,Aciaria,Gas natural,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169,0.169
+R2,Aciaria,Carvao metalurgico,,,,,,,,,,,,,,,,
+R2,Aciaria,Lenha,,,,,,,,,,,,,,,,
+R2,Aciaria,Produtos da cana,,,,,,,,,,,,,,,,
+R2,Aciaria,Outras fontes primarias,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819,0.819
+R2,Aciaria,Oleo diesel,,,,,,,,,,,,,,,,
+R2,Aciaria,Oleo combustivel,,,,,,,,,,,,,,,,
+R2,Aciaria,Gasolina,,,,,,,,,,,,,,,,
+R2,Aciaria,GLP,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+R2,Aciaria,Querosene,,,,,,,,,,,,,,,,
+R2,Aciaria,Gases cidade,,,,,,,,,,,,,,,,
+R2,Aciaria,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R2,Aciaria,Eletricidade,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844,1.844
+R2,Aciaria,Carvao vegetal,,,,,,,,,,,,,,,,
+R2,Aciaria,Alcool etilico,,,,,,,,,,,,,,,,
+R2,Aciaria,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R2,Aciaria,Alcatrao,,,,,,,,,,,,,,,,
+R2,Laminacao,Gas natural,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156,1.156
+R2,Laminacao,Carvao metalurgico,,,,,,,,,,,,,,,,
+R2,Laminacao,Lenha,,,,,,,,,,,,,,,,
+R2,Laminacao,Produtos da cana,,,,,,,,,,,,,,,,
+R2,Laminacao,Outras fontes primarias,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17,1.17
+R2,Laminacao,Oleo diesel,,,,,,,,,,,,,,,,
+R2,Laminacao,Oleo combustivel,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+R2,Laminacao,Gasolina,,,,,,,,,,,,,,,,
+R2,Laminacao,GLP,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047,0.047
+R2,Laminacao,Querosene,,,,,,,,,,,,,,,,
+R2,Laminacao,Gases cidade,,,,,,,,,,,,,,,,
+R2,Laminacao,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R2,Laminacao,Eletricidade,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125,2.125
+R2,Laminacao,Carvao vegetal,,,,,,,,,,,,,,,,
+R2,Laminacao,Alcool etilico,,,,,,,,,,,,,,,,
+R2,Laminacao,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R2,Laminacao,Alcatrao,,,,,,,,,,,,,,,,
+R2,Flare,Gas natural,,,,,,,,,,,,,,,,
+R2,Flare,Carvao metalurgico,,,,,,,,,,,,,,,,
+R2,Flare,Lenha,,,,,,,,,,,,,,,,
+R2,Flare,Produtos da cana,,,,,,,,,,,,,,,,
+R2,Flare,Outras fontes primarias,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722,1.722
+R2,Flare,Oleo diesel,,,,,,,,,,,,,,,,
+R2,Flare,Oleo combustivel,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038
+R2,Flare,Gasolina,,,,,,,,,,,,,,,,
+R2,Flare,GLP,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004
+R2,Flare,Querosene,,,,,,,,,,,,,,,,
+R2,Flare,Gases cidade,,,,,,,,,,,,,,,,
+R2,Flare,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R2,Flare,Eletricidade,,,,,,,,,,,,,,,,
+R2,Flare,Carvao vegetal,,,,,,,,,,,,,,,,
+R2,Flare,Alcool etilico,,,,,,,,,,,,,,,,
+R2,Flare,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R2,Flare,Alcatrao,,,,,,,,,,,,,,,,
+R3,Aciaria,Gas natural,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69
+R3,Aciaria,Carvao metalurgico,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029,0.029
+R3,Aciaria,Lenha,,,,,,,,,,,,,,,,
+R3,Aciaria,Produtos da cana,,,,,,,,,,,,,,,,
+R3,Aciaria,Outras fontes primarias,,,,,,,,,,,,,,,,
+R3,Aciaria,Oleo diesel,,,,,,,,,,,,,,,,
+R3,Aciaria,Oleo combustivel,,,,,,,,,,,,,,,,
+R3,Aciaria,Gasolina,,,,,,,,,,,,,,,,
+R3,Aciaria,GLP,,,,,,,,,,,,,,,,
+R3,Aciaria,Querosene,,,,,,,,,,,,,,,,
+R3,Aciaria,Gases cidade,,,,,,,,,,,,,,,,
+R3,Aciaria,Coque de carvao mineral,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139,0.139
+R3,Aciaria,Eletricidade,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271,5.271
+R3,Aciaria,Carvao vegetal,,,,,,,,,,,,,,,,
+R3,Aciaria,Alcool etilico,,,,,,,,,,,,,,,,
+R3,Aciaria,Outras fontes secundarias,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003,0.003
+R3,Aciaria,Alcatrao,,,,,,,,,,,,,,,,
+R3,Laminacao,Gas natural,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114,1.114
+R3,Laminacao,Carvao metalurgico,,,,,,,,,,,,,,,,
+R3,Laminacao,Lenha,,,,,,,,,,,,,,,,
+R3,Laminacao,Produtos da cana,,,,,,,,,,,,,,,,
+R3,Laminacao,Outras fontes primarias,,,,,,,,,,,,,,,,
+R3,Laminacao,Oleo diesel,,,,,,,,,,,,,,,,
+R3,Laminacao,Oleo combustivel,,,,,,,,,,,,,,,,
+R3,Laminacao,Gasolina,,,,,,,,,,,,,,,,
+R3,Laminacao,GLP,,,,,,,,,,,,,,,,
+R3,Laminacao,Querosene,,,,,,,,,,,,,,,,
+R3,Laminacao,Gases cidade,,,,,,,,,,,,,,,,
+R3,Laminacao,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R3,Laminacao,Eletricidade,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989,0.989
+R3,Laminacao,Carvao vegetal,,,,,,,,,,,,,,,,
+R3,Laminacao,Alcool etilico,,,,,,,,,,,,,,,,
+R3,Laminacao,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R3,Laminacao,Alcatrao,,,,,,,,,,,,,,,,
+R3,Outros,Gas natural,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067,0.067
+R3,Outros,Carvao metalurgico,,,,,,,,,,,,,,,,
+R3,Outros,Lenha,,,,,,,,,,,,,,,,
+R3,Outros,Produtos da cana,,,,,,,,,,,,,,,,
+R3,Outros,Outras fontes primarias,,,,,,,,,,,,,,,,
+R3,Outros,Oleo diesel,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005
+R3,Outros,Oleo combustivel,,,,,,,,,,,,,,,,
+R3,Outros,Gasolina,,,,,,,,,,,,,,,,
+R3,Outros,GLP,,,,,,,,,,,,,,,,
+R3,Outros,Querosene,,,,,,,,,,,,,,,,
+R3,Outros,Gases cidade,,,,,,,,,,,,,,,,
+R3,Outros,Coque de carvao mineral,,,,,,,,,,,,,,,,
+R3,Outros,Eletricidade,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448,1.448
+R3,Outros,Carvao vegetal,,,,,,,,,,,,,,,,
+R3,Outros,Alcool etilico,,,,,,,,,,,,,,,,
+R3,Outros,Outras fontes secundarias,,,,,,,,,,,,,,,,
+R3,Outros,Alcatrao,,,,,,,,,,,,,,,,
+R4,Sinterizacao,Gas natural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Carvao metalurgico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Lenha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Produtos da cana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Outras fontes primarias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Oleo diesel,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035,0.0035
+R4,Sinterizacao,Oleo combustivel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Gasolina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,GLP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Querosene,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Gases cidade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Coque de carvao mineral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Eletricidade,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856,0.3851856
+R4,Sinterizacao,Carvao vegetal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Alcool etilico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Outras fontes secundarias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Sinterizacao,Alcatrao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Gas natural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Carvao metalurgico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Lenha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Produtos da cana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Outras fontes primarias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Oleo diesel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Oleo combustivel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Gasolina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,GLP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Querosene,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Gases cidade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Coque de carvao mineral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Eletricidade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Carvao vegetal,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808,17.6096808
+R4,Alto-forno,Alcool etilico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Outras fontes secundarias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R4,Alto-forno,Alcatrao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
