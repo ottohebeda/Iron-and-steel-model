@@ -1,0 +1,5 @@
+﻿Rota,Combustivel,Energy_intensity (GJ/t),CAPEX (Euro/t),OPEX,Source
+DR-NG,Gas natural,16,414,,"Worrel, 2007; "
+DR-NG,Eletricidade,0.9,414,,"Worrel, 2007"
+DR-H2,Gas natural,5.62,574,,"Otto, 2017; Vogl 2018"
+DR-H2,Eletricidade,10.43,574,,"Otto, 2017; Vogl 2018"
