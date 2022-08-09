@@ -1,0 +1,41 @@
+﻿Mitigation measure,Route,Step,Energy reduction (Gj/t),CAPEX ($/t),OPEX ($/t),Penetration,Source
+Coke Dry Quenching,R1,Alto-forno,0.37,36.37,3.637,0.5,Opções
+Inversores de frequencia,R1,Alto-forno,0.12122,0.47,0,1,EPE
+Recuperacao de calor na sinterizacao,R1,Sinterizacao,0.55,4.7,0,0.5,EPE
+Uso de residuos,R1,Sinterizacao,0.18,0.29,0,0.5,EPE
+Injecao de carvao pulverizado,R1,Alto-forno,0.57,8,0,0.25,Pinto
+Injecao de gas natural,R1,Alto-forno,0.9,7.8,0,0.25,Pinto
+Recuperacao de gas de alto-forno,R1,Alto-forno,0.07,0.47,0,1,EPE
+Recuperacao de gas de aciaria,R1,Aciaria,0.92,35.4,0,0.25,EPE
+Recuperacao de LDG,R1,Aciaria,0.55,34.4,0,0.25,EPE
+Drivers de velocidade variavel,R1,Laminacao,0.05,1.5,0,0.75,EPE
+Recuperação de calor da água de resfriamento,R1,Laminacao,0.03,1.3,0,1,EPE
+Recuperacao de calor dos fornos,R1,Laminacao,0.3,4.2,0,0.5,EPE
+Controle do oxigenio,R1,Laminacao,0.33,0.765,0,0.5,EPE
+Uso de residuos,R2,Sinterizacao,0.18,0.280825,0,0.5,EPE
+Recuperacao de calor na sinterizacao,R2,Sinterizacao,0.55,4.7,0,0.5,EPE
+Reducao das perdas de calor,R2,Sinterizacao,0.09,2.1875,0,1,EPE
+Recuperacao de calor na pelotizacao,R2,Sinterizacao,0.09,2.1875,0,0.75,EPE
+Injecao de carvao pulverizado,R2,Alto-forno,0.57,7.74,0,0.25,EPE
+Injecao de gas natural,R2,Alto-forno,0.9,7.5425,0,0.25,EPE
+Recuperacao de gas de alto-forno,R2,Alto-forno,0.07,0.440625,0,1,EPE
+Recuperacao de gas de aciaria,R2,Aciaria,0.55,36.5,0,0.075,EPE
+Recuperacao de LDG,R2,Aciaria,0.55,33.265,0,0.075,EPE
+Drivers de velocidade variavel,R2,Aciaria,0.03,0.3,0,0.75,EPE
+Recuperação de calor da água de resfriamento,R2,Laminacao,0.03,1.3,0,1,EPE
+Recuperacao de calor dos fornos,R2,Laminacao,0.3,4.2,0,0.5,EPE
+Controle do oxigenio,R2,Laminacao,0.33,0.765,0,0.5,EPE
+Escoria espumante,R3,Aciaria,0.07,15.25,0,1,EPE
+Queimadores oxi-gn,R3,Aciaria,0.14,7.2525,0,1,EPE
+Drivers de velocidade variavel,R3,Aciaria,0.001,0.3,0,1,EPE
+Processos de automacao,R3,Aciaria,0.11,7.5,0,1,EPE
+Pre-aquecimento de sucata,R3,Aciaria,0.13,7.8,0,0.5,EPE
+Queimadores regenerativos,R3,Laminacao,0.7,3.9,0,1,EPE
+Sistemas de monitoramento,R3,Laminacao,0.21,7.5,0,1,EPE
+Uso de residuos,R4,Sinterizacao,0.18,0.280825,0,0.5,EPE
+Recuperacao de calor na sinterizacao,R4,Sinterizacao,0.55,4.7,0,0.5,EPE
+Reducao das perdas de calor,R4,Sinterizacao,0.09,2.1875,0,1,EPE
+Recuperacao de calor na pelotizacao,R4,Sinterizacao,0.09,2.1875,0,0.75,EPE
+Injecao de carvao pulverizado,R4,Alto-forno,0.57,7.74,0,0.25,EPE
+Injecao de gas natural,R4,Alto-forno,0.9,7.5425,0,0.25,EPE
+Recuperacao de gas natural de alto-forno,R4,Alto-forno,0.07,0.440625,0,0.5,EPE
