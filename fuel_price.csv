@@ -1,20 +1,20 @@
-﻿Combustivel,BRL/ktep
-Petroleo,1462689.374
-Oleo diesel,2332547.17
-Oleo combustivel,1339602.926
-Gasolina,2505194.805
-Alcool,4372549.02
-GLP,1253970.54
-Gas natural,515772.7273
-Carvao vapor,524702.2621
-Eletricidade,1790697.674
-Querosene,2813868.613
-Carvao vegetal,68319.54334
-Lenha,73276.53881
-Produtos da cana,218484.5614
-Outras fontes primarias,800000
-Gas cidade,506876.087
-Coque de carvao mineral,506876.087
-Outras fontes secundarias,800000
-Alcatrao,800000
-Carvao metalurgico,409295.5905
+﻿Combustivel,BRL/ktep,BRL/TJ,Fonte
+Petroleo,1462689,7201.175122,BEN 
+Oleo diesel,2332547,17038.26464,BEN 
+Oleo combustivel,1339603,10493.50438,BEN 
+Gasolina,2505195,23746.70497,BEN 
+Alcool,4372549,27768.67021,BEN 
+GLP,1253971,20246.38039,BEN 
+Gas natural,515773,10347.86505,BEN 
+Carvao vapor,524702,3459.461711,BEN 
+Eletricidade,1790698,29934.12618,BEN 
+Querosene,2813869,47037.92234,BEN 
+Carvao vegetal,68320,1618.910396,BEN 
+Lenha,73277,737.2502639,BEN 
+Produtos da cana,218485,1075.652573,BEN 
+Outras fontes primarias,800000,3938.594345,BEN 
+Gas de coqueria,506876,2495.474113,BEN 
+Coque metalurgico,506876,6430,Pinto
+Outras secundarias de petroleo,800000,3938.594345,BEN 
+Alcatrao,800000,3938.594345,BEN 
+Carvao mineral,409296,6430,Pinto
