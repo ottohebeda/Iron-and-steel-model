@@ -1,8 +1,8 @@
 ﻿Rota,Combustivel,Energy_intensity (GJ/t),CAPEX (Euro/t),OPEX,Penetration,Source
-DR-NG,Gas natural,16,500,80,0.5,"Worrel, 2007;Eurofer(opex) "
-DR-NG,Eletricidade,0.9,500,80,0.5,"Worrel, 2007;Eurofer(opex)"
-DR-H2,Gas natural,0,574,104,0.3,"Otto, 2017; Vogl 2018;Eurofer(opex)"
-DR-H2,Eletricidade,13.1,574,104,0.3,"Otto, 2017; Vogl 2018;Eurofer(opex)"
+DR-NG,Gas natural,16,500,58,0.5,"Worrel, 2007;Eurofer(opex) "
+DR-NG,Eletricidade,0.9,500,58,0.5,"Worrel, 2007;Eurofer(opex)"
+DR-H2,Gas natural,0,574,58,0.3,"Otto, 2017; Vogl 2018;Eurofer(opex)"
+DR-H2,Eletricidade,13.1,574,58,0.3,"Otto, 2017; Vogl 2018;Eurofer(opex)"
 SR,Carvao vegetal,22,640,80,0.3,"Eurofer;Worrel 2008 (MCTIC);Suno;Eurofer(opex)"
 SR,Eletricidade, 0.3,640,80,0.3,"Eurofer;Worrel 2008 (MCTIC);Suno;Eurofer(opex)"
 BF-BOF-CCS,Eletricidade, 1.2,692,88,0.8,"Taktarova;Eurofer(opex)"
