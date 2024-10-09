@@ -1,8 +1,8 @@
 Mitigation measure,Route,Step,Energy reduction (Gj/t),CAPEX ($/t),OPEX ($/t),Penetration,Source
 Coke Dry Quenching,R1,Alto-forno,0.37,36.37,3.637,0.5,Opções
-Inversores de frequencia,R1,Alto-forno,0.12122,0.47,0,0.25,EPE
+Inversores de frequencia,R1,Alto-forno,0.12122,0.47,0,0.1,EPE
 Recuperacao de calor na sinterizacao,R1,Sinterizacao,0.55,4.7,0,0.5,EPE/opções
-Injecao de carvao pulverizado,R1,Alto-forno,0.57,11,0,0.25,Pinto/opções
+Injecao de carvao pulverizado,R1,Alto-forno,0.57,11,0,0.1,Pinto/opções
 Injecao de gas natural,R1,Alto-forno,0.33,7.8,0,0.25,Pinto; Hasanbeigi
 Recuperacao de gas de alto-forno,R1,Alto-forno,0.04,0.47,0,0.25,EPE
 Recuperacao de gas de aciaria,R1,Aciaria,0.73,35.4,0,0.25,EPE
